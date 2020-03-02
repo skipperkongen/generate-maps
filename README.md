@@ -8,8 +8,14 @@ All my maps are generated with code in a single notebook.
 
 [map-generation.ipynb](notebooks/map-generation.ipynb)
 
-Essentially, my maps are based on noise (gaussian and beyond) with various spatial clustering algorithms throw on top. More sophisticated
-maps used iterative randomness (e.g. brownian motion) and geometric arithmetic/set operations on top (e.g. plus or minus).
+## Flat maps from noisy points
+
+These maps are based on a set of noisy input points (gaussian and beyond) and then a spatial algorithm on top, e.g. alpha shape or simply buffer out/buffer in.
+
+Some examples:
+
+![](images/map1.png)
+![](images/map2.png)
 
 ## How to run the code
 
