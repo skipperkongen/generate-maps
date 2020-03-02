@@ -10,12 +10,14 @@ All my maps are generated with code in a single notebook.
 
 ## Flat maps from noisy points
 
-These maps are based on a set of noisy input points (gaussian and beyond) and then a spatial algorithm on top, e.g. alpha shape or simply buffer out/buffer in.
+These maps are based on a set of noisy input points (gaussian and beyond) and then a spatial algorithm on top, e.g. buffer out/buffer in or alpha shape.
 
 Some examples:
 
-![](images/map1.png)
-![](images/map2.png)
+|buffer in/buffer out|alpha shape (plus a litte buffering)|
+|---|---|
+![](images/map1.png)|![](images/map2.png)|
+
 
 ## How to run the code
 
