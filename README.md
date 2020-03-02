@@ -2,7 +2,7 @@
 
 > Pattern recognition applied to noisy inputs
 
-This code repository contains my own recipies for generating fictional geographical maps with computer code. There is a large body of existing work[\[1\]](http://pcg.wikidot.com/pcg-algorithm:map-generation)[\[2\]](http://hjemmesider.diku.dk/~torbenm/Planet/)[\[3\]](http://simblob.blogspot.com/2010/09/polygon-map-generation-part-1.html), which my code is *not* based on, because the creative process what makes it fun for me.
+This code repository contains my own recipies for generating fictional geographical maps with computer code. There is a large body of existing work[\[1\]](http://pcg.wikidot.com/pcg-algorithm:map-generation)[\[2\]](http://hjemmesider.diku.dk/~torbenm/Planet/)[\[3\]](http://simblob.blogspot.com/2010/09/polygon-map-generation-part-1.html), which my code is *not* based on, because I enjoy the creative process.
 
 All my maps are generated with code in a single notebook.
 
